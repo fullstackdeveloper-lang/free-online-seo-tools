@@ -1,273 +1,214 @@
-# 🚀 Free Online SEO Tools
+# Free Online SEO Tools
 
-> A collection of free, fast, and easy-to-use SEO tools for developers, website owners, bloggers, marketers, and SEO professionals.
+> Free SEO tools, developer utilities, business calculators,
+> PDF tools, generators, and productivity tools.
 
-[![Website](https://img.shields.io/badge/Website-RameshDas.dev-blue?style=flat-square)](https://www.rameshdas.dev/tools)
-[![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-black?style=flat-square&logo=github)](https://github.com/fullstackdeveloper-lang/free-online-seo-tools)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-rameshdas.dev-blue)](https://www.rameshdas.dev/tools)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-## 🌐 Live Website
+## 🌐 Live Tools
 
-👉 **https://www.rameshdas.dev/tools**
-
-Access the tools online without installing anything or creating an account.
+https://www.rameshdas.dev/tools
 
 ---
 
-## ✨ Why These Tools?
+## 🔍 SEO Tools
 
-SEO shouldn't require expensive software or complicated subscriptions.
+Free tools for technical SEO, on-page SEO,
+metadata, structured data, SERP optimization,
+international SEO, and AI search.
 
-This project provides free online tools for:
+### SEO Audit
 
-- 🔍 Technical SEO
-- 📝 On-page SEO
-- 🏷️ Meta tags
-- 📊 SERP optimization
-- 🧩 Structured data
-- 🗺️ XML sitemaps
-- 🤖 Robots.txt
-- 🌍 International SEO
-- 🔑 Keyword analysis
-- 🔗 URL redirects
-- 🤖 AI / LLM search optimization
-- 📈 Website optimization
+https://www.rameshdas.dev/free-seo-audit
 
----
+Analyze technical SEO and on-page optimization issues.
 
-# 🛠️ SEO Tools
+### Schema Generator
 
-## 🔍 SEO Audit
-
-Analyze a website for common technical and on-page SEO issues.
-
-**Use it for:**
-
-- SEO health checks
-- Technical SEO analysis
-- On-page optimization
-- Website audits
-
-👉 [Free SEO Audit](https://www.rameshdas.dev/tools)
-
----
-
-## 🏷️ Meta Tag Generator
-
-Generate SEO-friendly HTML meta tags for your website.
-
-Generate:
-
-- Title
-- Meta description
-- Keywords
-- Open Graph tags
-- Social sharing metadata
-
----
-
-## 🔎 Meta Tag Checker
-
-Inspect important metadata on a webpage.
-
-Check:
-
-- Title
-- Meta description
-- Canonical URL
-- Open Graph
-- Social metadata
-- Other important SEO metadata
-
----
-
-## 🧩 Schema Markup Generator
+https://www.rameshdas.dev/schema-generator
 
 Generate Schema.org JSON-LD structured data.
 
-Useful for:
+### Meta Tag Generator
 
-- Article
-- Website
-- Organization
-- Local Business
-- Product
-- FAQ
-- Other supported schema types
+https://www.rameshdas.dev/meta-tag-generator
 
----
+Generate SEO-friendly HTML meta tags.
 
-## 🗺️ XML Sitemap Generator
+### Meta Tag Checker
 
-Generate XML sitemaps for websites.
+https://www.rameshdas.dev/meta-tag-checker
 
-Sitemaps help search engines discover important URLs on your website.
+Analyze title, description, canonical,
+Open Graph, and other metadata.
 
----
+### Robots.txt Generator
 
-## 🤖 Robots.txt Generator
+https://www.rameshdas.dev/robots-txt-generator
 
-Create a valid `robots.txt` file for controlling crawler access to your website.
+Generate robots.txt files for websites.
 
-Generate rules for:
+### Sitemap Generator
 
-- Googlebot
-- Bingbot
-- Other crawlers
-- Allow rules
-- Disallow rules
-- Sitemap URLs
+https://www.rameshdas.dev/sitemap-generator
 
----
+Generate XML sitemaps.
 
-## 🤖 LLMs.txt Generator
+### LLMs.txt Generator
 
-Generate an `llms.txt` file for providing a structured documentation index for compatible AI agents and developer tools.
+https://www.rameshdas.dev/llms-txt-generator
 
-> Note: `llms.txt` is an emerging convention and is not a Google ranking factor.
+Generate an optional llms.txt documentation index
+for compatible AI tooling.
 
----
+### SERP Preview
 
-## 📊 SERP Preview
+https://www.rameshdas.dev/serp-preview
 
-Preview how your title and meta description may appear in search results.
+Preview search result titles and descriptions.
 
-Optimize:
+### Hreflang Generator
 
-- SEO title
-- Meta description
-- URL
-- Search snippet length
+https://www.rameshdas.dev/hreflang-generator
 
----
+Generate hreflang tags for multilingual websites.
 
-## 🌍 Hreflang Generator
+### Keyword Density Checker
 
-Generate `hreflang` tags for multilingual and multi-region websites.
+https://www.rameshdas.dev/keyword-density-checker
 
-Useful for:
+Analyze keyword frequency and density.
 
-- International SEO
-- Multi-language websites
-- Country-specific pages
-- Regional content
+### UTM Builder
+
+https://www.rameshdas.dev/utm-builder
+
+Create campaign tracking URLs.
 
 ---
 
-## 🔑 Keyword Density Checker
+# 🧑‍💻 Developer Tools
 
-Analyze keyword frequency and density in your content.
-
-Useful for:
-
-- Blog posts
-- Landing pages
-- SEO content
-- Keyword analysis
-- Content optimization
-
----
-
-## 🔗 Redirect Checker
-
-Check URL redirects and identify:
-
-- 301 redirects
-- 302 redirects
-- Redirect chains
-- Final destination URLs
-- Common redirect problems
-
----
-
-# 🎯 Who Is This For?
-
-These tools are useful for:
-
-- 👨‍💻 Developers
-- 🔎 SEO professionals
-- ✍️ Bloggers
-- 🏢 Businesses
-- 📣 Digital marketers
-- 🛒 Ecommerce owners
-- 🌐 Website owners
-- 🚀 Startups
-- 🧑‍💼 Freelancers
-- 🤖 AI / GEO practitioners
+- JSON Formatter
+- JSON Validator
+- JSON Viewer
+- Diff Checker
+- SQL Formatter
+- SQL Beautifier
+- HTML Formatter
+- HTML Minifier
+- CSS Formatter
+- CSS Minifier
+- JavaScript Minifier
+- Regex Tester
+- JWT Decoder
+- JWT Generator
+- Base64 Encoder
+- Base64 Decoder
+- URL Encoder
+- URL Decoder
+- UUID Generator
+- Hash Generator
+- Unix Timestamp Converter
+- HTTP Status Checker
+- Redirect Checker
+- Color Picker
+- Cron Generator
 
 ---
 
-# 💡 Features
+# 💼 Business & Finance
 
-### 🆓 Free
-
-All tools are designed to be freely accessible online.
-
-### ⚡ Fast
-
-Simple tools are designed to provide results quickly without unnecessary complexity.
-
-### 🌐 Online
-
-No software installation is required.
-
-### 🔐 Privacy Friendly
-
-Where possible, processing is performed in the browser rather than requiring your data to be stored.
-
-### 📱 Responsive
-
-Designed to work on desktop, tablet, and mobile devices.
-
-### 🧑‍💻 Developer Friendly
-
-Useful for developers as well as SEO professionals.
+- Invoice Generator
+- Estimate Generator
+- Quotation Generator
+- Payslip Generator
+- Receipt Generator
+- Proposal Generator
+- Freelance Rate Calculator
+- Hourly Rate Calculator
+- Profit Margin Calculator
+- Loan Calculator
+- Discount Calculator
+- Percentage Calculator
 
 ---
 
-# 🗂️ Tool Categories
+# 🛠️ Generators & Productivity
 
-| Category | Tools |
-|---|---|
-| Technical SEO | SEO Audit, Sitemap, Robots.txt, Redirect Checker |
-| On-Page SEO | Meta Tag Checker, Keyword Density |
-| SERP | SERP Preview |
-| Structured Data | Schema Generator |
-| International SEO | Hreflang Generator |
-| AI Search | LLMs.txt Generator |
-| Metadata | Meta Tag Generator, Meta Tag Checker |
-
----
-
-# 🚀 Getting Started
-
-Visit the online tools:
-
-👉 **https://www.rameshdas.dev/tools**
-
-Choose a tool and start using it.
-
-No installation is required.
+- Business Name Generator
+- Company Name Generator
+- Hashtag Generator
+- QR Code Generator
+- Slug Generator
+- Cron Generator
+- Markdown Editor
+- Image Compressor
 
 ---
 
-# 🧑‍💻 Open Source
+# 📄 PDF Tools
 
-This project is intended to provide useful SEO utilities and encourage developers to build better, accessible web tools.
+- Compress PDF
+- Merge PDF
+- Split PDF
+- PDF to Image
+- Rotate PDF
+- Unlock PDF
 
-Contributions, suggestions, bug reports, and feature requests are welcome.
+---
+
+# ✍️ Writing & Content
+
+- Character Counter
+- Word Counter
+- Reading Time Calculator
+- Human Text Rewriter
+- Keyword Density Checker
+
+---
+
+# 🚀 Features
+
+- Free to use
+- No signup required
+- Browser-based tools
+- Fast and simple
+- Mobile friendly
+- Privacy-focused where possible
+- Useful for developers and SEO professionals
 
 ---
 
 # 🤝 Contributing
 
-Contributions are welcome!
+Contributions are welcome.
 
-### 1. Fork the repository
+1. Fork this repository.
+2. Create a feature branch.
+3. Add or improve a tool.
+4. Test your changes.
+5. Open a Pull Request.
 
-Create your own fork of this project.
+---
 
-### 2. Clone the repository
+# ⭐ Support
 
-```bash
-git clone https://github.com/fullstackdeveloper-lang/free-online-seo-tools.git
+If these tools are useful:
+
+- ⭐ Star the repository
+- 🐛 Report bugs
+- 💡 Suggest new tools
+- 🤝 Contribute
+- 📢 Share with others
+
+---
+
+## 🌐 Website
+
+https://www.rameshdas.dev/tools
+
+## 📄 License
+
+MIT
